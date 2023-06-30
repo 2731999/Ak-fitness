@@ -1,4 +1,4 @@
-# Gym websit
+# Gym website
 
 #### Website build using technologies Html, CSS and Bootstrap
 
