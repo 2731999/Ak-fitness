@@ -129,9 +129,9 @@ footer {
     display: flex;
 }
 
-/* About */
+/* index */
 
-.about-h3{
+.index-h3{
     color: red;
     font-weight: bold;
     padding-right: 50px;
